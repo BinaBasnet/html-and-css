@@ -1,0 +1,14 @@
+nav{
+    background-color :blueviolet;
+    overflow:hidden;
+}
+nav a{
+    font-style: initial;
+    float:left;
+    color:black;
+    padding:10px;
+    margin:2.5px;
+    text-decoration:none;
+
+}
+

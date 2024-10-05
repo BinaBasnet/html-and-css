@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:lightslategray;
+} 
+
+h1{
+    color:rgb(19, 14, 14);
+}
+h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+}
+.gallery{
+    width:150px;
+    height:150px;
+    border-radius: 100px;
+}
+p{
+    text-align:justify;
+}

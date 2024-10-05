@@ -1,0 +1,57 @@
+.header{
+    background-color: aquamarine;
+    color:black;
+    text-align: center;
+    padding:12px;
+    font-size: 25px;
+    font-family: cursive;
+}
+.menu{
+    background-color: aqua;
+    color:red;
+    font-size: 25px;
+    font-family:cursive;
+    padding:12px;
+    font-size: larger;
+}
+.sidebar{
+    background-color: antiquewhite;
+    width: 20%;
+    height:300px;
+    text-align: left;
+    padding-top: 20px;
+    float:left;
+    font-family: cursive;
+    font-size: larger;
+}
+.content1{
+    background-color: rgb(136, 191, 240);
+    width:60%;
+    height:300px;
+    text-align:left;
+    padding-top: 20px;
+    float:left;
+    font-family: cursive;
+    font-size: larger;
+}
+.content2{
+    background-color:rgb(127, 255, 142);
+    width: 20%;
+    height:300px;
+    padding-top:20px;
+    text-align: left;
+    float:left;
+    font-family: cursive;
+    font-size: larger;
+}
+
+.footer{
+    clear:both;
+    background-color:blueviolet;
+    color:red;
+    text-align:left;
+    padding:12px;
+    font-size:25px;
+    font-family: cursive;
+}
+

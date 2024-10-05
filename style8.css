@@ -1,0 +1,12 @@
+
+h1{
+    text-align: center;
+}
+table,th,td{
+    border: 3px solid black;
+    border-collapse: collapse;
+    margin:auto;
+}
+td{
+    padding:20px;
+}

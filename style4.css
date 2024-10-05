@@ -1,0 +1,21 @@
+body{
+    background-color: bisque;
+}
+h1{
+    color:white;
+    background-color:Black ;
+    text-align:center;
+}
+ol{
+    font-size: large;
+}
+dd{
+font-family: italic;
+text-align: justify;
+color:black;
+}
+ol,li{
+    color: rgb(14, 148, 23);
+    
+
+}

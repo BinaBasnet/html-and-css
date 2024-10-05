@@ -1,0 +1,93 @@
+body {
+    background-color: rgb(252, 245, 237);
+    margin: 0px;
+
+}
+
+header {
+    background-color: rgb(8, 8, 8);
+    text-align: center;
+    font-family: cursive;
+    color: white;
+    padding: 20px;
+}
+
+header.p {
+    text-align: center;
+    color: #6d90ee;
+
+}
+
+nav {
+    background-color: rgb(184, 232, 252);
+    overflow: hidden;
+
+}
+
+nav a {
+    font-family: cursive;
+    font-size: 20px;
+    padding: 15px;
+    text-decoration: none;
+    color: black;
+    height: 50px;
+    margin: 2.5px;
+}
+
+nav a:hover {
+    background-color: rgba(149, 243, 227, 0.575);
+    color: white;
+}
+
+
+
+p {
+    font-family: cursive;
+    text-align:none;
+    font-size: larger;
+}
+
+img {
+    width: 25%;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+.img {
+    width: 20%;
+
+}
+
+div.gallery {
+    float: left;
+    margin: 5px;
+    border: 2px solid black;
+    width: 200px;
+
+}
+
+div.gallery img {
+    width: 100%;
+    line-height: auto;
+}
+
+.galli {
+    width: 20%;
+}
+
+h2 {
+    text-align: center;
+}
+
+input[type=text],
+textarea {
+    width: 100%;
+}
+
+input[type="submit"] {
+    background-color:rgb(110, 155, 207);
+    color: white;
+    margin-bottom: 2px;
+    padding: 2px;
+    cursor: pointer;
+}
